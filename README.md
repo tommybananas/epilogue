@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/dchester/epilogue.svg?branch=master)](https://travis-ci.org/dchester/epilogue) [![Dependency Status](https://david-dm.org/dchester/epilogue.svg)](https://david-dm.org/dchester/epilogue)
 
+Epilogue is no longer actively maintained. Check out [finale](https://github.com/tommybananas/finale) for a Sequelize 4.x version of Epilogue.
+
 # Epilogue
 
 Create flexible REST endpoints and controllers from [Sequelize](http://www.sequelizejs.com/) models in your [Express](http://expressjs.com/) or [Restify](https://github.com/restify/node-restify) app.
